@@ -1,0 +1,16 @@
+Dette er et react-projekt 
+- tjek i pdf-guiden "GUIDE: React App - installation, opstart, router mv." 
+- findes i VIDOnline "React (installation og opsætning af simpelt projekt)
+
+
+
+Projektet her trække på data fra api'et i samme parent mappe/folder (merndemo)
+
+          |--- backend
+ merndemo |
+          |--- frontend
+
+
+backend er express-server med GET POST PUT DELETE til todos
+frontend er dette projekt, som trækker på data fra backend
+

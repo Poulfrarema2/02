@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.myClass li{list-style-type: disc; 	list-style-position: inside;}
